@@ -14,7 +14,7 @@ git:
     quark:
         url: https://github.com/egispike/coreBOSTheme
         path: user/themes/quark
-        branch: master
+        branch: main
 links:
     problems:
         src: grav-plugin-problems
